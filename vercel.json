@@ -5,11 +5,6 @@
   "installCommand": "",
   "framework": null,
   "regions": ["icn1"],
-  "functions": {
-    "**/*.js": {
-      "maxDuration": 30
-    }
-  },
   "headers": [
     {
       "source": "/(.*)",
